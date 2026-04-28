@@ -4,3 +4,9 @@ body{
 h1{
     color: rgba(61, 232, 9, 0.783);
 }
+.div1{
+    background-color: brown;
+    width: 30px;
+    height: 40px;
+    box-shadow: 2px;
+}
